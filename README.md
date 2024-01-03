@@ -31,6 +31,8 @@ A curated list of optimizers for machine learning.
 | SGDP | 2020 | [Slowing Down the Weight Norm Increase in Momentum-based Optimizers](https://arxiv.org/abs/2006.08217) | [🟡](https://github.com/clovaai/adamp) | ❌ |
 | AdamP | 2020 | [Slowing Down the Weight Norm Increase in Momentum-based Optimizers](https://arxiv.org/abs/2006.08217) | [🟡](https://github.com/clovaai/adamp) | ❌ |
 | Madam | 2020 | [Learning compositional functions via multiplicative weight updates](https://arxiv.org/abs/2006.14560) | [🟡](https://github.com/jxbz/madam) | ❌ |
+| SuperAdam | 2021 | [Learning compositional functions via multiplicative weight updates](https://par.nsf.gov/servlets/purl/10316115) | [✔️](https://github.com/LIJUNYI95/SuperAdam) | ❌ |
+
 
 ## Other Resources
 
